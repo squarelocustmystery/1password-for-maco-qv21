@@ -1,4 +1,4 @@
-# 
+# ultimate 1Password for macOS Automation | malware-scanning + privacy-protection is the best 1Password for macOS automation, featuring malware-scanning and privacy-protection.
 
 
 
